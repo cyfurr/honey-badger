@@ -1,0 +1,1198 @@
+{
+	"6843715d7f2b26d143b9e137": {
+		"itemTplToClone": "5fbcc1d9016cce60e8341ab3",
+		"parentId": "5447b5f14bdc2d61278b4567",
+		"handbookParentId": "5b5f78fc86f77409407a7f90",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "assets/content/weapons/mcx/weapon_sig_mcx_gen1_762x35_container.bundle",
+				"rcid": ""
+			},
+			"defAmmo": "5fbe3ffdf8b6a877a729ea82",
+			"Slots": [
+				{
+					"_name": "mod_magazine",
+					"_id": "6841e04200b27e6bc164e2c3",
+					"_parent": "5fbcc1d9016cce60e8341ab3",
+					"_props": {
+						"filters": [
+							{
+								"AnimationIndex": 0,
+								"Filter": [
+									"55d4887d4bdc2d962f8b4570",
+									"61840bedd92c473c77021635",
+									"61840d85568c120fdd2962a5",
+									"5c05413a0db834001c390617",
+									"5c6d450c2e221600114c997d",
+									"5c6d42cb2e2216000e69d7d1",
+									"59c1383d86f774290a37e0ca",
+									"5aaa5e60e5b5b000140293d6",
+									"5448c1d04bdc2dff2f8b4569",
+									"5aaa5dfee5b5b000140293d3",
+									"5d1340b3d7ad1a0b52682ed7",
+									"544a378f4bdc2d30388b4567",
+									"5d1340bdd7ad1a0e8d245aab",
+									"55802d5f4bdc2dac148b458e",
+									"5d1340cad7ad1a0b0b249869",
+									"6241c2c2117ad530666a5108",
+									"5c6592372e221600133e47d7",
+									"544a37c44bdc2d25388b4567",
+									"5c6d46132e221601da357d56",
+									"6761765f1f08ed5e8800b7a6"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c394bdc2dae468b4577"
+				},
+				{
+					"_name": "mod_stock",
+					"_id": "6841f4110f91e9fc01335acd",
+					"_parent": "5fbcc1d9016cce60e8341ab3",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68437365ff67d4461dd44e6e",
+									"58ac1bf086f77420ed183f9f",
+									"5894a13e86f7742405482982",
+									"5fbcc429900b1d5091531dd7",
+									"5fbcc437d724d907e2077d5c",
+									"5c5db6ee2e221600113fba54",
+									"5c5db6f82e2216003a0fe914",
+									"6529348224cbe3c74a05e5c4",
+									"6761496fe2cf1419500357e9"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_reciever",
+					"_id": "6841f72dc6165c5b61db7804",
+					"_parent": "5fbcc1d9016cce60e8341ab3",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68437377a3a942e460ecd1ac"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_pistol_grip",
+					"_id": "6841e50a92653bb1440b309d",
+					"_parent": "5fbcc1d9016cce60e8341ab3",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"55d4b9964bdc2d1d4e8b456e",
+									"571659bb2459771fb2755a12",
+									"602e71bd53a60014f9705bfa",
+									"6113c3586c780c1e710c90bc",
+									"6113cc78d3a39d50044c065a",
+									"6113cce3d92c473c770200c7",
+									"5cc9bcaed7f00c011c04e179",
+									"5bb20e18d4351e00320205d5",
+									"5bb20e0ed4351e3bac1212dc",
+									"6193dcd0f8ee7e52e4210a28",
+									"5d025cc1d7ad1a53845279ef",
+									"5c6d7b3d2e221600114c9b7d",
+									"57c55efc2459772d2c6271e7",
+									"57af48872459771f0b2ebf11",
+									"57c55f092459772d291a8463",
+									"57c55f112459772d28133310",
+									"57c55f172459772d27602381",
+									"5a339805c4a2826c6e06d73d",
+									"55802f5d4bdc2dac148b458f",
+									"5d15cf3bd7ad1a67e71518b2",
+									"59db3a1d86f77429e05b4e92",
+									"5fbcbd6c187fea44d52eda14",
+									"59db3acc86f7742a2c4ab912",
+									"59db3b0886f77429d72fb895",
+									"615d8faecabb9b7ad90f4d5d",
+									"5b07db875acfc40dc528a5f6",
+									"63f5feead259b42f0b4d6d0f",
+									"652911675ae2ae97b80fdf3c"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_charge",
+					"_id": "6841f9578757cfb0fa4f943d",
+					"_parent": "5fbcc1d9016cce60e8341ab3",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5c0faf68d174af02a96260b8",
+									"56ea7165d2720b6e518b4583",
+									"55d44fd14bdc2d962f8b456e",
+									"5ea16d4d5aad6446a939753d",
+									"5bb20dbcd4351e44f824c04e",
+									"6033749e88382f4fab3fd2c5",
+									"5b2240bf5acfc40dc528af69",
+									"5d44334ba4b9362b346d1948",
+									"5f633ff5c444ce7e3c30a006",
+									"651bf5617b3b552ef6712cb7"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"Chambers": [
+				{
+					"_id": "6841e131df41463b823941a6",
+					"_mergeSlotWithChildren": false,
+					"_name": "patron_in_weapon",
+					"_parent": "5fbcc1d9016cce60e8341ab3",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5fbe3ffdf8b6a877a729ea82",
+									"5fd20ff893a8961fc660a954",
+									"619636be6db0f2477964e710",
+									"6196364158ef8c428c287d9f",
+									"6196365d58ef8c428c287da1",
+									"64b8725c4b75259c590fa899"
+								]
+							}
+						]
+					},
+					"_proto": "6841e4727e29884209dcb815",
+					"_required": false
+				}
+			],
+			"ammoCaliber": "Caliber762x35",
+			"Weight": 0.36,
+			"Ergonomics": 55,
+			"RecolDispersion": 25,
+			"RecoilForceUp": 115,
+			"RecoilForceBack": 300,
+			"bFirerate": 775,
+			"SingleFireRate": 490,
+			"bEffDist": 500,
+			"bHearDist": 80,
+			"AllowJam": true,
+			"AllowFeed": true,
+			"AllowMisfire": true,
+			"AllowSlide": true,
+			"AllowOverheat": true
+		},
+		"locales": {
+			"en": {
+				"name": "Q LLC Honey Badger .300BLK Rifle",
+				"shortName": "Q Honey Badger",
+				"description": "The Honey Badger platform was originally designed by Kevin Brittingham for AAC, but SiG GmbH's MCX design outsold it and forced AAC to shutter their weapon division. Undeterred, Brittingham founded a new company and innovated his design further, returning in 2018 to soundly defeat the MCX and return the Badger to its rightful throne as king of suppressed .300blk assault rifles. Commonly marketed as the world's first \"Personal Offensive Weapon.\""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 155900,
+		"handbookPriceRoubles": 100000,
+		"addtoTraders": false,
+		"masteries": true,
+		"masterySections": [
+			{
+				"Level2": 150,
+				"Level3": 300,
+				"Name": "Qhoneybadger",
+				"Templates": [
+					"6843715d7f2b26d143b9e137"
+				]
+			}
+		],
+		"addweaponpreset": true,
+		"weaponpresets": [
+			{
+				"_id": "6843715d7f2b26d143b9e137_presetID",
+				"_type": "Preset",
+				"_changeWeaponName": false,
+				"_name": "6843715d7f2b26d143b9e137_PRESET",
+				"_encyclopedia": "6843715d7f2b26d143b9e137",
+				"_parent": "4D4350524553455449441001",
+				"_items": [
+					{
+						"_id": "4D4350524553455449441001",
+						"_tpl": "6843715d7f2b26d143b9e137"
+					},
+					{
+						"_id": "4D4350524553455449441002",
+						"_tpl": "55802f5d4bdc2dac148b458f",
+						"parentId": "4D4350524553455449441001",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "4D4350524553455449441003",
+						"_tpl": "5aaa5dfee5b5b000140293d3",
+						"parentId": "4D4350524553455449441001",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "4D4350524553455449441004",
+						"_tpl": "68437377a3a942e460ecd1ac",
+						"parentId": "4D4350524553455449441001",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "4D4350524553455449441005",
+						"_tpl": "68437365ff67d4461dd44e6e",
+						"parentId": "4D4350524553455449441001",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "4D4350524553455449441006",
+						"_tpl": "5ea16d4d5aad6446a939753d",
+						"parentId": "4D4350524553455449441001",
+						"slotId": "mod_charge"
+					},
+					{
+						"_id": "4D4350524553455449441007",
+						"_tpl": "684373b566d7c8f2eff224f5",
+						"parentId": "4D4350524553455449441004",
+						"slotId": "mod_barrel"
+					},
+					{
+						"_id": "4D4350524553455449441008",
+						"_tpl": "684373931033f27655c87715",
+						"parentId": "4D4350524553455449441004",
+						"slotId": "mod_handguard"
+					},
+					{
+						"_id": "4D4350524553455449441009",
+						"_tpl": "5c18b9192e2216398b5a8104",
+						"parentId": "4D4350524553455449441004",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "4D435052455345544944100A",
+						"_tpl": "684373bf8854df0d7cedd21d",
+						"parentId": "4D4350524553455449441007",
+						"slotId": "mod_muzzle"
+					},
+					{
+						"_id": "4D435052455345544944100B",
+						"_tpl": "684373cb8690dd407a5848c3",
+						"parentId": "4D435052455345544944100A",
+						"slotId": "mod_muzzle"
+					},
+					{
+						"_id": "4D435052455345544944100C",
+						"_tpl": "5c18b90d2e2216152142466b",
+						"parentId": "4D4350524553455449441008",
+						"slotId": "mod_sight_front"
+					}
+				]
+			}
+		]
+	},
+	"68437365ff67d4461dd44e6e": {
+		"itemTplToClone": "5fbcc437d724d907e2077d5c",
+		"parentId": "55818a594bdc2db9688b456a",
+		"handbookParentId": "5b5f757486f774093e6cb507",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/stocks/stock_qhb_standard.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.21,
+			"ExtraSizeRight": 0,
+			"Recoil": -18,
+			"Ergonomics": 20
+		},
+		"locales": {
+			"en": {
+				"name": "Q LLC Honey Badger Stock",
+				"shortName": "QHB Stock",
+				"description": "Standard sliding stock produced by Q for the Honey Badger 2.0 series of rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15000,
+		"handbookPriceRoubles": 13442,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"68437377a3a942e460ecd1ac": {
+		"itemTplToClone": "5fbcc3e4d6fa9c00c571bb58",
+		"parentId": "55818a304bdc2db5418b457d",
+		"handbookParentId": "5b5f764186f77447ec5d7714",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/receivers/receiver_qhb_standard.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.23,
+			"Accuracy": 2,
+			"Recoil": -2,
+			"Ergonomics": 6,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "6842240d90bd0a17e7fa1c82",
+					"_parent": "5fbcc3e4d6fa9c00c571bb58",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"57ac965c24597706be5f975c",
+									"57aca93d2459771f2c7e26db",
+									"544a3f024bdc2d1d388b4568",
+									"544a3a774bdc2d3a388b4567",
+									"5d2dc3e548f035404a1a4798",
+									"57adff4f24597737f373b6e6",
+									"5c0517910db83400232ffee5",
+									"591c4efa86f7741030027726",
+									"570fd79bd2720bc7458b4583",
+									"570fd6c2d2720bc6458b457f",
+									"558022b54bdc2dac148b458d",
+									"5c07dd120db834001c39092d",
+									"5c0a2cec0db834001b7ce47d",
+									"58491f3324597764bc48fa02",
+									"584924ec24597768f12ae244",
+									"5b30b0dc5acfc400153b7124",
+									"6165ac8c290d254f5e6b2f6c",
+									"60a23797a37c940de7062d02",
+									"5d2da1e948f035477b1ce2ba",
+									"5c0505e00db834001b735073",
+									"609a63b6e2ff132951242d09",
+									"584984812459776a704a82a6",
+									"59f9d81586f7744c7506ee62",
+									"570fd721d2720bc5458b4596",
+									"57ae0171245977343c27bfcf",
+									"5dfe6104585a0c3e995c7b82",
+									"544a3d0a4bdc2d1b388b4567",
+									"5d1b5e94d7ad1a2b865a96b0",
+									"609bab8b455afd752b2e6138",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"5c7d55f52e221644f31bff6a",
+									"616584766ef05c2ce828ef57",
+									"5b3b6dc75acfc47a8773fb1e",
+									"615d8d878004cc50514c3233",
+									"5b2389515acfc4771e1be0c0",
+									"577d128124597739d65d0e56",
+									"618b9643526131765025ab35",
+									"618bab21526131765025ab3f",
+									"5c86592b2e2216000e69e77c",
+									"5a37ca54c4a282000d72296a",
+									"5d0a29fed7ad1a002769ad08",
+									"58d2664f86f7747fec5834f6",
+									"57c69dd424597774c03b7bbc",
+									"5b3b99265acfc4704b4a1afb",
+									"5aa66a9be5b5b0214e506e89",
+									"5aa66c72e5b5b00016327c93",
+									"5c1cdd302e221602b3137250",
+									"61714b2467085e45ef140b2c",
+									"6171407e50224f204c1da3c5",
+									"61713cc4d8e3106d9806c109",
+									"5b31163c5acfc400153b71cb",
+									"5a33b652c4a28232996e407c",
+									"5a33b2c9c4a282000c5a9511",
+									"59db7eed86f77461f8380365",
+									"5a1ead28fcdbcb001912fa9f",
+									"5dff77c759400025ea5150cf",
+									"626bb8532c923541184624b4",
+									"62811f461d5df4475f46a332",
+									"63fc449f5bd61c6cf3784a88",
+									"6477772ea8a38bb2050ed4db",
+									"6478641c19d732620e045e17",
+									"64785e7c19d732620e045e15",
+									"65392f611406374f82152ba5",
+									"653931da5db71d30ab1d6296",
+									"655f13e0a246670fb0373245",
+									"6567e751a715f85433025998"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_barrel",
+					"_id": "6842297719b08909cc667cbe",
+					"_parent": "5fbcc3e4d6fa9c00c571bb58",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"684373a29f55856aac3315f6",
+									"684373b566d7c8f2eff224f5"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_handguard",
+					"_id": "68422b7f6238527437258d9d",
+					"_parent": "5fbcc3e4d6fa9c00c571bb58",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68437385abe318d9c0388445",
+									"684373931033f27655c87715"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_rear",
+					"_id": "68422bc4bdda2fc5d6776418",
+					"_parent": "5fbcc3e4d6fa9c00c571bb58",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5bb20e49d4351e3bac1212de",
+									"5ba26b17d4351e00367f9bdd",
+									"5dfa3d7ac41b2312ea33362a",
+									"5c1780312e221602b66cc189",
+									"5fb6564947ce63734e3fa1da",
+									"5bc09a18d4351e003562b68e",
+									"5c18b9192e2216398b5a8104",
+									"5fc0fa957283c4046c58147e",
+									"5894a81786f77427140b8347"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "68422bc4bdda2fc5d6776418",
+					"_parent": "5fbcc3e4d6fa9c00c571bb58",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"644a3df63b0b6f03e101e065"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "68422ca65f40478d0962e29a",
+					"_parent": "5fbcc3e4d6fa9c00c571bb58",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Q LLC Upper Receiver for Honey Badger",
+				"shortName": "Q Upper",
+				"description": "Upper receiver assembly for Honey Badger-series rifles produced by Q LLC. Features a streamlined and lightened design and a removed forward assist."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 22222,
+		"handbookPriceRoubles": 19998,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"68437385abe318d9c0388445": {
+		"itemTplToClone": "5c6d10fa2e221600106f3f23",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/handguards/handguard_qhb_q_mlok_6in.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.335,
+			"Recoil": -1,
+			"Ergonomics": 12,
+			"Slots": [
+				{
+					"_name": "mod_mount_000",
+					"_id": "6843461d08dfdc475ee9d540",
+					"_parent": "5c6d10fa2e221600106f3f23",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6269220d70b6c02e665f2635",
+									"5b7be47f5acfc400170e2dd2",
+									"6269545d0e57f218e4548ca2"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "684346a204e33e19bb807a30",
+					"_parent": "5c6d10fa2e221600106f3f23",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6269220d70b6c02e665f2635",
+									"5b7be47f5acfc400170e2dd2",
+									"6269545d0e57f218e4548ca2"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope",
+					"_id": "684346a204e33e19bb807a30",
+					"_parent": "5c6d10fa2e221600106f3f23",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "684346a204e33e19bb807a30",
+					"_parent": "5c6d10fa2e221600106f3f23",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5b7be4895acfc400170e2dd5",
+									"57cffce524597763b31685d8",
+									"57cffcd624597763133760c5",
+									"57cffcdd24597763f5110006",
+									"57cffb66245977632f391a99",
+									"651a8bf3a8520e48047bf708",
+									"651a8e529829226ceb67c319"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"ConflictingItems": [
+				"684373b566d7c8f2eff224f5"
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Q 6-inch M-LOK Handguard for Honey Badger",
+				"shortName": "Q M-LOK 6",
+				"description": "Aircraft-grade aluminum handguard produced by Q LLC for use with Honey Badger-series carbines. Features M-LOK interface gaps for installation of additional accessories."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15000,
+		"handbookPriceRoubles": 13442,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"684373931033f27655c87715": {
+		"itemTplToClone": "5c6d11072e2216000e69d2e4",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/handguards/handguard_qhb_q_mlok_12in.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.48,
+			"Recoil": -2,
+			"Ergonomics": 10,
+			"Slots": [
+				{
+					"_name": "mod_mount_000",
+					"_id": "6843461d08dfdc475ee9d540",
+					"_parent": "5c6d11072e2216000e69d2e4",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6269220d70b6c02e665f2635",
+									"5b7be47f5acfc400170e2dd2",
+									"6269545d0e57f218e4548ca2"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "684346a204e33e19bb807a30",
+					"_parent": "5c6d10fa2e221600106f3f23",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6269220d70b6c02e665f2635",
+									"5b7be47f5acfc400170e2dd2",
+									"6269545d0e57f218e4548ca2"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_002",
+					"_id": "68445a58d1628389566b925d",
+					"_parent": "5c6d11072e2216000e69d2e4",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5b7be47f5acfc400170e2dd2",
+									"6269220d70b6c02e665f2635",
+									"6269545d0e57f218e4548ca2",
+									"669a6a4a525be1d2d004b8eb",
+									"671126b049e181972e0681fa",
+									"6644920d49817dc7d505ca71"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope",
+					"_id": "684346a204e33e19bb807a30",
+					"_parent": "5c6d11072e2216000e69d2e4",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "684346a204e33e19bb807a30",
+					"_parent": "5c6d11072e2216000e69d2e4",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5b7be4895acfc400170e2dd5",
+									"57cffce524597763b31685d8",
+									"57cffcd624597763133760c5",
+									"57cffcdd24597763f5110006",
+									"57cffb66245977632f391a99",
+									"651a8bf3a8520e48047bf708",
+									"651a8e529829226ceb67c319",
+									"67112695fe5c8bf33f02476d"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "68443de345b6a71d5b065213",
+					"_parent": "5c6d11072e2216000e69d2e4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Q 12-inch M-LOK Handguard for Honey Badger",
+				"shortName": "Q M-LOK 12",
+				"description": "Aircraft-grade aluminum handguard produced by Q LLC for use with Honey Badger-series carbines. Features M-LOK interface gaps for installation of additional accessories."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15000,
+		"handbookPriceRoubles": 13442,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M870",
+				"Templates": [
+					"SerbuShotgun"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"684373a29f55856aac3315f6": {
+		"itemTplToClone": "5c5db5962e2216000e5e46eb",
+		"parentId": "555ef6e44bdc2de9068b457e",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/barrels/barrel_qhb_190mm_300blk.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.377,
+			"ExtraSizeLeft": 2,
+			"Recoil": -6,
+			"Ergonomics": -4,
+			"Velocity": -12.31,
+			"CenterOfImpact": 0.065,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "68420f11a57f175a93bd1913",
+					"_parent": "5c5db5962e2216000e5e46eb",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5c7954d52e221600106f4cc7",
+									"5fbc22ccf24b94483f726483",
+									"59bffc1f86f77435b128b872",
+									"5fbe7618d6fa9c00c571bb6c",
+									"684373bf8854df0d7cedd21d"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"ConflictingItems": [
+				"684373931033f27655c87715"
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "190mm .300 Blackout barrel for Honey Badger",
+				"shortName": "HB 190mm",
+				"description": "Carbine-Length barrel assembly for the Honey Badger series of rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 26520,
+		"handbookPriceRoubles": 27118,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M870",
+				"Templates": [
+					"SerbuShotgun"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"684373b566d7c8f2eff224f5": {
+		"itemTplToClone": "5c5db5962e2216000e5e46eb",
+		"parentId": "555ef6e44bdc2de9068b457e",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/barrels/barrel_qhb_260mm_300blk.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.409,
+			"ExtraSizeLeft": 3,
+			"Recoil": -9,
+			"Ergonomics": -7,
+			"Velocity": -10.11,
+			"CenterOfImpact": 0.051,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "68420f11a57f175a93bd1913",
+					"_parent": "5c5db5b82e2216003a0fe71d",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5dfa3cd1b33c0951220c079b",
+									"5fbc22ccf24b94483f726483",
+									"5fbe7618d6fa9c00c571bb6c",
+									"684373bf8854df0d7cedd21d"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"ConflictingItems": [
+				"68437385abe318d9c0388445"
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "260mm .300 Blackout barrel for Honey Badger",
+				"shortName": "HB 260mm",
+				"description": "Mid-Length barrel assembly for the Honey Badger series of rifles."
+			},
+			"clearClonedProps": false,
+			"addtoInventorySlots": [],
+			"addtoModSlots": false,
+			"modSlot": [],
+			"ModdableItemWhitelist": [],
+			"ModdableItemBlacklist": [],
+			"fleaPriceRoubles": 26520,
+			"handbookPriceRoubles": 29118,
+			"addtoTraders": false,
+			"addtoBots": false,
+			"addtostaticlootcontainer": false,
+			"StaticLootContainers": [
+				{
+					"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+					"Probability": 250
+				},
+				{
+					"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+					"Probability": 150
+				}
+			],
+			"masteries": false,
+			"masterySections": [
+				{
+					"Name": "M870",
+					"Templates": [
+						"SerbuShotgun"
+					]
+				}
+			],
+			"addweaponpreset": false,
+			"weaponpresets": []
+		}
+	},
+	"684373bf8854df0d7cedd21d": {
+		"itemTplToClone": "6130c43c67085e45ef1405a1",
+		"parentId": "550aa4bf4bdc2dd6348b456b",
+		"handbookParentId": "5b5f75c686f774094242f19f",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/muzzles/muzzle_q_cherry_bomb_300blk.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.102,
+			"Accuracy": 3,
+			"Recoil": -16,
+			"Ergonomics": -1,
+			"Velocity": 0.3,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "684353d72eacbc7caa3826f1",
+					"_parent": "6130c43c67085e45ef1405a1",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"684373cb8690dd407a5848c3"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Q LLC \"Cherry Bomb\" Muzzle Brake .300 Blackout",
+				"shortName": "CBomb",
+				"description": "Muzzle brake/thread protector developed by Q for the Honey Badger 2.0 series of rifles. Can mount compatible suppressors."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 28520,
+		"handbookPriceRoubles": 24249,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"684373cb8690dd407a5848c3": {
+		"itemTplToClone": "5dfa3d2b0dee1b22f862eade",
+		"parentId": "555ef6e44bdc2de9068b457e",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/suppressors/suppressor_qhb_standard_300blk.bundle",
+				"rcid": ""
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Q Honey Badger Proprietary Suppressor",
+				"shortName": "QHB Supp",
+				"description": "Standard issue suppressor shipped with SD variants of the Honey Badger. Can be mounted on compatible Q muzzle devices."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 76000,
+		"handbookPriceRoubles": 67325,
+		"addtoTraders": false,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}
