@@ -1,0 +1,61 @@
+{
+"68437365ff67d4461dd44e6e": {
+		"itemTplToClone": "5fbcc437d724d907e2077d5c",
+		"parentId": "55818a594bdc2db9688b456a",
+		"handbookParentId": "5b5f757486f774093e6cb507",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/stocks/stock_qhb_standard.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.21,
+			"ExtraSizeRight": 0,
+			"Recoil": -18,
+			"Ergonomics": 20
+		},
+		"locales": {
+			"en": {
+				"name": "Q LLC Honey Badger Stock",
+				"shortName": "QHB Stock",
+				"description": "Standard sliding stock produced by Q for the Honey Badger 2.0 series of rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15000,
+		"handbookPriceRoubles": 13442,
+		"addtoTraders": true,
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 14
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 11442,
+                "_tpl": "ROUBLES"
+            }
+        ],
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}

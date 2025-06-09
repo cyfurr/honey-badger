@@ -1,0 +1,484 @@
+{
+    "68437385abe318d9c0388445": {
+        "itemTplToClone": "5c6d10fa2e221600106f3f23",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "items/mods/handguards/handguard_q_honeybadger_6inch_blk.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.335,
+            "Recoil": -1,
+            "Ergonomics": 12,
+            "Slots": [
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6843461d08dfdc475ee9d540",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269545d0e57f218e4548ca2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269545d0e57f218e4548ca2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_scope",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5649a2464bdc2d91118b45a8"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b7be4895acfc400170e2dd5",
+                                    "57cffce524597763b31685d8",
+                                    "57cffcd624597763133760c5",
+                                    "57cffcdd24597763f5110006",
+                                    "57cffb66245977632f391a99",
+                                    "651a8bf3a8520e48047bf708",
+                                    "651a8e529829226ceb67c319"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "ConflictingItems": [
+                "684373b566d7c8f2eff224f5"
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Q 6-inch M-LOK Handguard for Honey Badger",
+                "shortName": "Q M-LOK 6",
+                "description": "Aircraft-grade aluminum handguard produced by Q LLC for use with Honey Badger-series carbines. Features M-LOK interface gaps for installation of additional accessories."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 15000,
+        "handbookPriceRoubles": 13442,
+        "addtoTraders": true,
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 14
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12200,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6846dbd14531e371c7e56b41": {
+        "itemTplToClone": "5c6d10fa2e221600106f3f23",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "items/mods/handguards/handguard_q_honeybadger_6inch_grey.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.335,
+            "Recoil": -1,
+            "Ergonomics": 12,
+            "Slots": [
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6843461d08dfdc475ee9d540",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269545d0e57f218e4548ca2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269545d0e57f218e4548ca2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_scope",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5649a2464bdc2d91118b45a8"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b7be4895acfc400170e2dd5",
+                                    "57cffce524597763b31685d8",
+                                    "57cffcd624597763133760c5",
+                                    "57cffcdd24597763f5110006",
+                                    "57cffb66245977632f391a99",
+                                    "651a8bf3a8520e48047bf708",
+                                    "651a8e529829226ceb67c319"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "ConflictingItems": [
+                "684373b566d7c8f2eff224f5"
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Q 6-inch M-LOK gray Handguard for Honey Badger",
+                "shortName": "Q M-LOK 6",
+                "description": "Aircraft-grade aluminum handguard produced by Q LLC for use with Honey Badger-series carbines. Features M-LOK interface gaps for installation of additional accessories."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 15000,
+        "handbookPriceRoubles": 13442,
+        "addtoTraders": true,
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 14
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12200,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "684373931033f27655c87715": {
+        "itemTplToClone": "5c6d11072e2216000e69d2e4",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "items/mods/handguards/handguard_qhb_q_mlok_12in.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.48,
+            "Recoil": -2,
+            "Ergonomics": 10,
+            "Slots": [
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6843461d08dfdc475ee9d540",
+                    "_parent": "5c6d11072e2216000e69d2e4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269545d0e57f218e4548ca2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d10fa2e221600106f3f23",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269545d0e57f218e4548ca2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "68445a58d1628389566b925d",
+                    "_parent": "5c6d11072e2216000e69d2e4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635",
+                                    "6269545d0e57f218e4548ca2",
+                                    "669a6a4a525be1d2d004b8eb",
+                                    "671126b049e181972e0681fa",
+                                    "6644920d49817dc7d505ca71"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_scope",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d11072e2216000e69d2e4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5649a2464bdc2d91118b45a8"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "684346a204e33e19bb807a30",
+                    "_parent": "5c6d11072e2216000e69d2e4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b7be4895acfc400170e2dd5",
+                                    "57cffce524597763b31685d8",
+                                    "57cffcd624597763133760c5",
+                                    "57cffcdd24597763f5110006",
+                                    "57cffb66245977632f391a99",
+                                    "651a8bf3a8520e48047bf708",
+                                    "651a8e529829226ceb67c319",
+                                    "67112695fe5c8bf33f02476d"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_sight_front",
+                    "_id": "68443de345b6a71d5b065213",
+                    "_parent": "5c6d11072e2216000e69d2e4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5ba26b01d4351e0085325a51",
+                                    "5dfa3d950dee1b22f862eae0",
+                                    "5c17804b2e2216152006c02f",
+                                    "5fb6567747ce63734e3fa1dc",
+                                    "5bc09a30d4351e00367fb7c8",
+                                    "5c18b90d2e2216152142466b",
+                                    "5fc0fa362770a0045c59c677",
+                                    "5894a73486f77426d259076c",
+                                    "55d4af3a4bdc2d972f8b456f"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Q 12-inch M-LOK Handguard for Honey Badger",
+                "shortName": "Q M-LOK 12",
+                "description": "Aircraft-grade aluminum handguard produced by Q LLC for use with Honey Badger-series carbines. Features M-LOK interface gaps for installation of additional accessories."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 15000,
+        "handbookPriceRoubles": 13442,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M870",
+                "Templates": [
+                    "SerbuShotgun"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}

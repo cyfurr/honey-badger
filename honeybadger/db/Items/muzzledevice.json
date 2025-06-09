@@ -1,0 +1,75 @@
+{
+    "684373bf8854df0d7cedd21d": {
+        "itemTplToClone": "6130c43c67085e45ef1405a1",
+        "parentId": "550aa4bf4bdc2dd6348b456b",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "items/mods/muzzles/muzzle_q_cherry_bomb_300blk.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.102,
+            "Accuracy": 3,
+            "Recoil": -16,
+            "Ergonomics": -1,
+            "Velocity": 0.3,
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "684353d72eacbc7caa3826f1",
+                    "_parent": "6130c43c67085e45ef1405a1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "684373cb8690dd407a5848c3"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Q LLC \"Cherry Bomb\" Muzzle Brake .300 Blackout",
+                "shortName": "CBomb",
+                "description": "Muzzle brake/thread protector developed by Q for the Honey Badger 2.0 series of rifles. Can mount compatible suppressors."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 28520,
+        "handbookPriceRoubles": 24249,
+        "addtoTraders": true,
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 14
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 18249,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}

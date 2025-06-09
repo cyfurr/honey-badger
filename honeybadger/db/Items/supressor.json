@@ -1,0 +1,59 @@
+{
+    	"684373cb8690dd407a5848c3": {
+		"itemTplToClone": "5dfa3d2b0dee1b22f862eade",
+		"parentId": "555ef6e44bdc2de9068b457e",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "items/mods/suppressors/suppressor_qhb_standard_300blk.bundle",
+				"rcid": ""
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Q Honey Badger Proprietary Suppressor",
+				"shortName": "QHB Supp",
+				"description": "Standard issue suppressor shipped with SD variants of the Honey Badger. Can be mounted on compatible Q muzzle devices."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 76000,
+		"handbookPriceRoubles": 67325,
+		"addtoTraders": true,
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 14
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 39451,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}

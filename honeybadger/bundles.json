@@ -25,7 +25,15 @@
             ]
         },
         {
-            "key": "items/mods/handguards/handguard_qhb_q_mlok_6in.bundle",
+            "key": "items/mods/handguards/handguard_q_honeybadger_6inch_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "items/mods/handguards/handguard_q_honeybadger_6inch_grey.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -58,30 +66,6 @@
         },
         {
             "key": "items/mods/suppressors/suppressor_qhb_standard_300blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "weapons/qhb/client_assets.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "weapons/qhb/weapon_colt_m4a1_556x45_container.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "weapons/qhb/textures/client_assets.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
