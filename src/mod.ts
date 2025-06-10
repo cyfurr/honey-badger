@@ -17,7 +17,7 @@ implements IPreSptLoadMod, IPostDBLoadMod
 {
     private Instance: WTTInstanceManager = new WTTInstanceManager();
     private version: string;
-    private modName = "Gutted Mod";
+    private modName = "ahoneybadger";
     private config;
 
     private customItemService: CustomItemService = new CustomItemService();

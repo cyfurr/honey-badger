@@ -13,7 +13,7 @@ const CustomItemService_1 = require("./CustomItemService");
 class CustomFramework {
     Instance = new WTTInstanceManager_1.WTTInstanceManager();
     version;
-    modName = "honey badger";
+    modName = "ahoneybadger";
     config;
     customItemService = new CustomItemService_1.CustomItemService();
     debug = false;
@@ -69,7 +69,7 @@ class CustomFramework {
         console.log(`${colorCode}${message}${resetCode}`); // Log the colored message here
     }
     displayCreditBanner() {
-        this.colorLog(`[${this.modName}] Developer: Cypher`, "green");
+        this.colorLog(`[${this.modName}] Developers:  -   Code Framework: GroovypenguinX`, "green");
     }
 }
 module.exports = { mod: new CustomFramework() };

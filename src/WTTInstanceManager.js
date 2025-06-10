@@ -40,8 +40,8 @@ class WTTInstanceManager {
     modName;
     debug;
     // Useful Paths
-    modPath = path.join(process.cwd(), "\/user\/mods\/honeybadger\/");
-    dbPath = path.join(process.cwd(), "\/user\/mods\/honeybadger\/db");
+    modPath = path.join(process.cwd(), "\/user\/mods\/ahoneybadger\/");
+    dbPath = path.join(process.cwd(), "\/user\/mods\/ahoneybadger\/db");
     profilePath = path.join(process.cwd(), "\/user\/profiles");
     // Instances
     container;

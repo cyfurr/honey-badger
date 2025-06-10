@@ -29,8 +29,8 @@ export class WTTInstanceManager
     public modName: string;
     public debug: boolean;
     // Useful Paths
-    public modPath: string = path.join(process.cwd(), "\/user\/mods\/honeybadger\/");
-    public dbPath: string = path.join(process.cwd(), "\/user\/mods\/honeybadger\/db");
+    public modPath: string = path.join(process.cwd(), "\/user\/mods\/ahoneybadger\/");
+    public dbPath: string = path.join(process.cwd(), "\/user\/mods\/ahoneybadger\/db");
     public profilePath: string = path.join(process.cwd(), "\/user\/profiles");
 
     // Instances
