@@ -226,6 +226,7 @@
 		"fleaPriceRoubles": 155900,
 		"handbookPriceRoubles": 100000,
 		"addtoTraders": true,
+		"traderId": "MECHANIC",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
@@ -253,45 +254,45 @@
 		"addweaponpreset": true,
 		"weaponpresets": [
 			{
-				"_id": "6843715d7f2b26d143b9e137_presetID",
+				"_id": "68473c8468b2f43c852b3d12",
 				"_type": "Preset",
 				"_changeWeaponName": false,
-				"_name": "6843715d7f2b26d143b9e137_PRESET",
+				"_name": "68473c8468b2f43c852b3d12",
 				"_encyclopedia": "6845f613fa00f18e2c3786c8",
-				"_parent": "4D4350524553455449441001",
+				"_parent": "68473ca70910f68220beb76a",
 				"_items": [
 					{
-						"_id": "4D4350524553455449441001",
+						"_id": "68473ca70910f68220beb76a",
 						"_tpl": "6845f613fa00f18e2c3786c8"
 					},
 					{
 						"_id": "4D4350524553455449441002",
 						"_tpl": "55802f5d4bdc2dac148b458f",
-						"parentId": "4D4350524553455449441001",
+						"parentId": "68473ca70910f68220beb76a",
 						"slotId": "mod_pistol_grip"
 					},
 					{
 						"_id": "4D4350524553455449441003",
 						"_tpl": "5aaa5dfee5b5b000140293d3",
-						"parentId": "4D4350524553455449441001",
+						"parentId": "68473ca70910f68220beb76a",
 						"slotId": "mod_magazine"
 					},
 					{
 						"_id": "4D4350524553455449441004",
 						"_tpl": "6845f87b27b6d925136295de",
-						"parentId": "4D4350524553455449441001",
+						"parentId": "68473ca70910f68220beb76a",
 						"slotId": "mod_reciever"
 					},
 					{
 						"_id": "4D4350524553455449441005",
 						"_tpl": "68437365ff67d4461dd44e6e",
-						"parentId": "4D4350524553455449441001",
+						"parentId": "68473ca70910f68220beb76a",
 						"slotId": "mod_stock"
 					},
 					{
 						"_id": "4D4350524553455449441006",
 						"_tpl": "5ea16d4d5aad6446a939753d",
-						"parentId": "4D4350524553455449441001",
+						"parentId": "68473ca70910f68220beb76a",
 						"slotId": "mod_charge"
 					},
 					{
@@ -462,7 +463,8 @@
 								"Shift": 0,
 								"Filter": [
 									"68437385abe318d9c0388445",
-									"684373931033f27655c87715"
+									"684373931033f27655c87715",
+									"6846dbd14531e371c7e56b41"
 								]
 							}
 						]
@@ -556,6 +558,7 @@
 		"fleaPriceRoubles": 22222,
 		"handbookPriceRoubles": 19998,
 		"addtoTraders": true,
+		"traderId": "MECHANIC",
 		"traderItems": [
 			{
 				"unlimitedCount": true,

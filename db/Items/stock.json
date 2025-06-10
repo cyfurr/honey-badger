@@ -30,6 +30,7 @@
 		"fleaPriceRoubles": 15000,
 		"handbookPriceRoubles": 13442,
 		"addtoTraders": true,
+		"traderId": "MECHANIC",
         "traderItems": [
             {
                 "unlimitedCount": true,

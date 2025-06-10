@@ -102,7 +102,7 @@
         },
         "locales": {
             "en": {
-                "name": "Q 6-inch M-LOK Handguard for Honey Badger",
+                "name": "Q 6-inch M-LOK black Handguard for Honey Badger",
                 "shortName": "Q M-LOK 6",
                 "description": "Aircraft-grade aluminum handguard produced by Q LLC for use with Honey Badger-series carbines. Features M-LOK interface gaps for installation of additional accessories."
             }
@@ -116,6 +116,7 @@
         "fleaPriceRoubles": 15000,
         "handbookPriceRoubles": 13442,
         "addtoTraders": true,
+        "traderId": "MECHANIC",
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -263,6 +264,7 @@
         "fleaPriceRoubles": 15000,
         "handbookPriceRoubles": 13442,
         "addtoTraders": true,
+        "traderId": "MECHANIC",
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -456,7 +458,21 @@
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 15000,
         "handbookPriceRoubles": 13442,
-        "addtoTraders": false,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 14
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 16400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
         "addtoBots": false,
         "addtostaticlootcontainer": false,
         "StaticLootContainers": [

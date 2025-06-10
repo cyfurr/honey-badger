@@ -231,7 +231,7 @@
 		"barterScheme": [
 			{
 				"count": 66900,
-				"_tpl" : "ROUBLES" 
+				"_tpl": "ROUBLES"
 			}
 		],
 		"masteries": true,
@@ -248,12 +248,9 @@
 		"addweaponpreset": true,
 		"weaponpresets": [
 			{
-				"_id": "6843715d7f2b26d143b9e137_presetID",
-				"_type": "Preset",
-				"_changeWeaponName": false,
-				"_name": "6843715d7f2b26d143b9e137_PRESET",
+				"_id": "6843715d7f2b26d143b9e137",
+				"_changeWeaponName": true,
 				"_encyclopedia": "6843715d7f2b26d143b9e137",
-				"_parent": "4D4350524553455449441001",
 				"_items": [
 					{
 						"_id": "4D4350524553455449441001",
@@ -325,7 +322,10 @@
 						"parentId": "4D4350524553455449441008",
 						"slotId": "mod_sight_front"
 					}
-				]
+				],
+				"_name": "buclet",
+				"_parent": "4D4350524553455449441001",
+				"_type": "Preset"
 			}
 		]
 	},
@@ -552,19 +552,20 @@
 		"fleaPriceRoubles": 22222,
 		"handbookPriceRoubles": 19998,
 		"addtoTraders": true,
-        "traderItems": [
-            {
-                "unlimitedCount": true,
-                "stackObjectsCount": 14
-            }
-        ],
-        "barterScheme": [
-            {
-                "count": 11998,
-                "_tpl": "ROUBLES"
-            }
-        ],
-        "loyallevelitems": 3,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 14
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 11998,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"addtoBots": false,
 		"addtostaticlootcontainer": false,
 		"StaticLootContainers": [
