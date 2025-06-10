@@ -249,7 +249,7 @@
 		"weaponpresets": [
 			{
 				"_id": "6843715d7f2b26d143b9e137",
-				"_changeWeaponName": true,
+				"_changeWeaponName": false,
 				"_encyclopedia": "6843715d7f2b26d143b9e137",
 				"_items": [
 					{
