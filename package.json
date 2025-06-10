@@ -11,7 +11,11 @@
     ],
     "isBundleMod": true,
     "sptVersion": "~3.11.x",
-    "loadBefore": ["Echoes of Tarkov - Requisitions"],
+    "loadBefore": [
+        "Echoes of Tarkov - Requisitions",
+        "Epic-SamSWAT Optics Port",
+        "EpicRangeTime-Weapons"
+    ],
     "loadAfter": [],
     "incompatibilities": [],
     "scripts": {

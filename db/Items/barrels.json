@@ -56,8 +56,8 @@
 		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 26520,
-		"handbookPriceRoubles": 27118,
+		"fleaPriceRoubles": 2652,
+		"handbookPriceRoubles": 2718,
 		"addtoTraders": true,
 		"traderId": "MECHANIC",
 		"traderItems": [
@@ -68,7 +68,7 @@
 		],
 		"barterScheme": [
 			{
-				"count": 19118,
+				"count": 1911,
 				"_tpl": "ROUBLES"
 			}
 		],
@@ -145,8 +145,8 @@
 		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 26520,
-		"handbookPriceRoubles": 27118,
+		"fleaPriceRoubles": 2652,
+		"handbookPriceRoubles": 2711,
 		"addtoTraders": true,
 		"traderId": "MECHANIC",
 		"traderItems": [
@@ -157,7 +157,7 @@
 		],
 		"barterScheme": [
 			{
-				"count": 19118,
+				"count": 25544,
 				"_tpl": "ROUBLES"
 			}
 		],
